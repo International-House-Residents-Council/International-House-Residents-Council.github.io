@@ -8,7 +8,7 @@ import globe from './globe.png';
 const HomeContainer = styled.div`
     width: 100%;
     height: 100%;
-    background: rgba(9,9,121,1) 35%;
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%);
     display: flex;
     flex-direction: column;
     justify-content: center;
